@@ -1,0 +1,152 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://i.ibb.co.com/Cng09Ts/Virat-Kohli-Biography.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "price":120000,
+    "bowlingType": "Right-arm medium"
+  },
+  {
+    "playerId": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/WvpPfyt/Untitled-design.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "price":120002,
+    "bowlingType": "Right-arm offbreak"
+  },
+  {
+    "playerId": 3,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/WBFnk7Z/pat-cummins.webp",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "price":120003,
+    "bowlingType": "Right-arm fast"
+  },
+  {
+    "playerId": 4,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/8gYfH9x/benstokes-thumb-6.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "price":120004,
+    "bowlingType": "Right-arm fast-medium"
+  },
+  {
+    "playerId": 5,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/Hh9r4nJ/kane-williamson.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "price":120005,
+    "bowlingType": "Right-arm offbreak"
+  },
+  {
+    "playerId": 6,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://i.ibb.co.com/JB2W2Q1/JUSPRIT-BUMRAH.webp",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "price":120006,
+    "bowlingType": "Right-arm fast"
+  },
+  {
+    "playerId": 7,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/JmbcwsB/quinton-de-kock.jpg",
+    "role": "Wicketkeeper Batsman",
+    "battingType": "Left-hand bat",
+    "price":120007,
+    "bowlingType": "None"
+  },
+  {
+    "playerId": 8,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/Y2NS0D7/Trent-Boult.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "price":120008,
+    "bowlingType": "Left-arm fast-medium"
+  },
+  {
+    "playerId": 9,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/v1bD48G/Steve-Smith.webp",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "price":120009,
+    "bowlingType": "Right-arm legbreak"
+  },
+  {
+    "playerId": 10,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/cFxYHDZ/Shakib-Al-Hasan.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "price":120010,
+    "bowlingType": "Left-arm orthodox"
+  },
+  {
+    "playerId": 11,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co.com/F3R8cz1/Rashid-Khan.webp",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "price":120011,
+    "bowlingType": "Right-arm legbreak"
+  },
+  {
+    "playerId": 12,
+    "name": "Joe Root",
+    "country": "England",
+    "image": "https://i.ibb.co.com/pXsVTqB/Joe-Root.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "price":120013,
+    "bowlingType": "Right-arm offbreak"
+  },
+  {
+    "playerId": 13,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/nMMHHdC/David-Warner.jpg",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "price":120014,
+    "bowlingType": "Right-arm legbreak"
+  },
+  {
+    "playerId": 14,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/wBcqK08/Shaheen-Afridi.jpg",
+    "role": "Bowler",
+    "battingType": "Left-hand bat",
+    "price":120013,
+    "bowlingType": "Left-arm fast"
+  },
+  {
+    "playerId": 15,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/ngm6h65/Glenn-Maxwell.jpg",
+    "role": "All-rounder",
+    "battingType": "Right-hand bat",
+    "price":120015,
+    "bowlingType": "Right-arm offbreak"
+  }
+]
